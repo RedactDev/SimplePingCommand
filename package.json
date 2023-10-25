@@ -1,0 +1,17 @@
+{
+    "name": "simplepingcommand",
+    "version": "1.0.0",
+    "description": "Generated Bot Project by Redactcord",
+    "main": "src/index.js",
+    "scripts": {
+        "test": "echo No Test script was found & exit 0"
+    },
+    "license": "MIT",
+    "author": "",
+    "keywords": [
+        "Bot"
+    ],
+    "dependencies": {
+        "redactcord": "^1.0.7"
+    }
+}

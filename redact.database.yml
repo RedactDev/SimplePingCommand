@@ -1,0 +1,13 @@
+enabled: false
+type: flat
+flat:
+  filePath: example.db
+mongo:
+  url: mongo:?/
+postgre:
+  url: postgres://
+mysql:
+  host: 127.0.0.1
+  user: root
+  database: example
+  password: password
